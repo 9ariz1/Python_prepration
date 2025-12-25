@@ -1,0 +1,9 @@
+Constructor :- it is special type of method , which is called by its self as we create an object of any class .
+In python constructor is "__init__()".
+It helps in object memory allocation.
+
+
+Type of Constructor : 
+    1. Perametresied
+    2. Non Perametresied
+

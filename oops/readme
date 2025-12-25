@@ -1,0 +1,17 @@
+OOPS :- object oriented programing system is a machanism for software devlopment. By using OOPS we can make more secure , reliable software application . It Enhance the security and reusability.
+
+There are classes and objects____
+
+Pillers of OOPS : -
+    1. Encapsulation 
+    2. Inheritance 
+    3. Polymorphism 
+    4. Abstraction 
+
+class : Class is collection of Data Member And member function. Class is a blue print of object.
+Object : Object is an instance of a class . It has method and properties which were defined in the class.
+memory is allocated to bjects as it is created.
+
+Static variable --- class variables 
+Non Static variable -- Object -- instance Variables
+

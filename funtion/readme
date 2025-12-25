@@ -1,0 +1,38 @@
+Function :- function is a block of code which is used to perform a specific task. We can create a function and call  it form any desired part of program .
+
+        By using function we can achieve reusability of code.
+
+
+define 
+def fun():
+    function body
+
+calling 
+fun()
+
+type :- 
+    1. User Defined : - 
+        print(), input(), len(), type() etc
+    2. Pre Defined : -  
+        create by programmer for specific task 
+
+On the basic of parameter : -
+
+        1. Paremeterized function 
+        2. Non Paremeterized Function 
+    
+On the basis of return Type : 
+
+        1. Return Type Function 
+        2. Non Return Type Function
+
+
+Function With *arg(lenght argument) : -
+    * agrs allow a function to accept any number of positional argumnet , python store them as a tuple .
+
+    Uses :- when you don't know how many values the user will be pass 
+
+Function With **kwargs(keyword argument) : 
+    it allow a function to accept any number of keyword word argument , python store them as a dictionary 
+
+    Uses :- Best for dynamic data like profile , setting , APIs.

@@ -1,0 +1,10 @@
+
+Name : Asif ,
+Enrollment : 230010,
+University : it, 
+Course : python 
+
+Name : Akshat Pathak ,
+Enrollment : 1002,
+University : IU, 
+Course : MBA

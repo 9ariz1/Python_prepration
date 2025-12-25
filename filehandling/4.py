@@ -1,0 +1,6 @@
+f=open("Second.txt","r+")
+data=f.read()
+print(data)
+f.write("This is new data")
+print("After Add some Data : ",data)
+f.close()

@@ -1,0 +1,29 @@
+
+f Name : {name} ,Enrollment : {enroll}, University : {uni}, Course : {c}
+
+f Name : {name} ,Enrollment : {enroll}, University : {uni}, Course : {c}
+
+Name : Ariz ,
+Enrollment : 2300100832,
+University : Integral University, 
+Course : B.tech
+
+Name : Saif ,
+Enrollment : 2300104981,
+University : Integral University, 
+Course : B.tech 
+
+Name : Ariz ,
+Enrollment : 2300100832,
+University : B.tech, 
+Course : Integral University
+
+Name : Saif ,
+Enrollment : 2300104891,
+University : B.tech, 
+Course : Integral University
+
+Name : Manish Yadav ,
+Enrollment : 1001,
+University : IU, 
+Course : Btech

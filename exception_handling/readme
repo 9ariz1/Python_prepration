@@ -1,0 +1,9 @@
+# Exception : abnormal termenation of our program is know as exception which terminate the execution in runtime. these exception can be handle using by try , except and finally block. This called exception handling.
+
+there are many type of expection :
+1. Typeerror
+2. ValueError
+3. FileNotFoundError
+4. ZeroDivisionError
+
+

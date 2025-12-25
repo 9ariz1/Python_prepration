@@ -1,0 +1,17 @@
+
+Polymorphism
+
+Poly --> Many
+Morph --> Forms (functionalities or logic)
+overloading method is not supported
+
+
+The concept of defining multiple logics to perform some operation is known as a polymorphism
+
+Type of polymorphism 
+
+    1. Method overriding
+    2. Method Overloding
+
+int+int= arithematic
+str+str= concatination 
