@@ -1,3 +1,8 @@
+# from mypacakge.mod1 import *
+# from mypacakge.mod2 import *
+
+
+
 from mypacakge import *
 
 print("Area Of Circle : ",area_of_circle(2))
